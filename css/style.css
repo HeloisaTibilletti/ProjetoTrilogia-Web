@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+nav ul {
+    list-style: none;
+    text-align: center;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-left: 8px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+  }
+
+  .titulo{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .descricao_temporada1{
+    font-family: 'Roboto', sans-serif;
+    padding: 2%
+  }
+
+
+  .link_temp1{
+    font-family: 'Roboto', sans-serif;
+  }
+
+  *{
+    text-align: center;
+    margin: 5px;
+    font-family: 'Roboto', sans-serif;
+    color: aliceblue;
+  }
+
+  body{
+    background-color: black;
+  }
+
+  .imagem1{
+    border: 2px solid red;
+    padding: 1%
+  }
+
+  .imagem2{
+    border: 2px solid red;
+    padding: 1%
+  }
+
+  .imagem3{
+    border: 2px solid red;
+    padding: 1%
+  }
+
+  .imagem4{
+    border: 2px solid red;
+    padding: 1%
+  }
+
+  .coment1{
+    border: 2px solid red;
+    padding: 2%;
+    border-radius: 5%;
+    margin: 3%; 
+  }
+
+  .coment2{
+    border: 2px solid red;
+    padding: 2%;
+    border-radius: 10%;
+  }
+  
+
+  
